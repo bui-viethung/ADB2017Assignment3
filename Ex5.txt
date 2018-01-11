@@ -5,5 +5,5 @@ CD: {
 	COUNTRY: "UK", 
 	COMPANY: "CBS Records", 
 	PRICE: 9.90, 
-	YEAR: 1988} 
+	YEAR: 1980} 
 })
